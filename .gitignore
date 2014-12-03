@@ -4,3 +4,5 @@ pkg/
 .idea
 .DS_Store
 *.gem
+simple_form_bootstrap3.sublime-project
+simple_form_bootstrap3.sublime-workspace
